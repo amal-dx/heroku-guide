@@ -1,5 +1,8 @@
 
 # Heroku Deploy Guide
+
+<img src=http://telegra.ph/file/68809ff84d7cd4447a76e.jpg>
+
 ##  WhatsApp Bot: DXTROX-v2 🤍<br>
 ### Pre-requisite
  - 🌐️ Internet 🌐️️
