@@ -25,9 +25,13 @@
     | MONGO_URI | YOUR CLUSTER URI |
 
 Brainshop api link- https://brainshop.ai/user/80516/edit
+
 Monogodb api link - https://account.mongodb.com/account/login
+
 Goggle api link   - https://developers.google.com/custom-search/v1/introduction
+
 Kaffeine link     - http://kaffeine.herokuapp.com/
+
 
 `NAME` The name of the Bot <br>
 `CHAT_BOT_URL` A BOT WITH A BRAIN ROCKS! Click=> [Get ChatBot Url](https://github.com/Oreki-san/Eru-Guide/blob/main/Chatbot-Url-Guide.md)<br>
