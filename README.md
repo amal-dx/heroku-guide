@@ -15,13 +15,13 @@
 4. Enter the following fields
     | KEY | VALUE |
     | --- | ----------- |
-    | BOTNAME | Eru |
+    | BOTNAME | DXTROX |
     | CHAT_BOT_URL | 'Instructions below for getting url' |
     | CRON | 'null' |
     | GOOGLE_API_KEY | 'Read below to get the API Key |
     | PREFIX | ! |
     | SESSION | Any text you want but make sure to remember and don't share it |
-    | MODS |  |
+    | Number |  |
     | MONGO_URI | YOUR CLUSTER URI |
 
 Brainshop api link- https://brainshop.ai/user/80516/edit
